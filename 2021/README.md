@@ -5,8 +5,8 @@ Goal : Try to do these challanges in as many PL's as possible (Some of them will
 
 | Day | PL |
 |:---:|----|
-| 1   | Python   |
-| 2   | C   |
+| 1   | Bash   |
+| 2   | Rust   |
 | 3   | C++   |
 | 4   | Java   |
 | 5   | Rust   |
