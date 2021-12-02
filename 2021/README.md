@@ -10,4 +10,5 @@ Goal : Try to do these challanges in as many PL's as possible (Some of them will
 | 3   | C++   |
 | 4   | Java   |
 | 5   | Rust   |
+| 6   | Python |
 | ...   | ...   |
