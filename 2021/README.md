@@ -5,7 +5,7 @@ Goal : Try to do these challanges in as many PL's as possible (Some of them will
 
 | Day | PL |
 |:---:|----|
-| 1   | Bash   |
+| 1   | Shell   |
 | 2   | Rust   |
 | 3   | C++   |
 | 4   | Java   |
