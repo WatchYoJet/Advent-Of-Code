@@ -12,3 +12,5 @@ Goal : Try to do these challanges in as many PL's as possible (Some of them will
 | 5   | Rust   |
 | 6   | Python |
 | ...   | ...   |
+
+Edit: one day, not today
